@@ -2,7 +2,7 @@
 
  # Predicting Customer Churn
 
-  **One Sentence Summary:** This project uses machine learning to predict which bank customers are likely to leave, using a dataset from the Kaggle playground series.
+  **Summary:** This project uses machine learning to predict which bank customers are likely to leave, using a dataset from the Kaggle playground series.
 
  ## Overview
 
